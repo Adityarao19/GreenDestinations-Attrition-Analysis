@@ -1,0 +1,22 @@
+🎬 Project Feedback Video Script
+
+Hi, my name is Aditya Rao and this is my project for the Unified Mentor Data Science Internship.
+
+The project is titled: "Green Destinations - Employee Attrition Analysis".
+
+📌 The goal of this project was to understand why employees are leaving a company and what factors influence their decision.
+
+I used Python with libraries like Pandas, Seaborn, and Matplotlib for data analysis and visualization.
+
+The dataset had employee details such as age, income, department, distance from home, and attrition status.
+
+🔍 Some key findings:
+- Employees below 30 years had higher attrition.
+- R&D department showed the most exits.
+- Employees who lived farther from the office or earned lower salaries were more likely to quit.
+
+✅ Through this project, I learned how to perform end-to-end EDA, clean data, generate insights, and visualize trends.
+
+I'm excited to explore predictive models and build dashboards in future projects.
+
+Thank you for watching!
